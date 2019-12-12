@@ -1,0 +1,35 @@
+.main-ul{
+    list-style: none;
+    padding-left: 0;
+}
+.main-ul li{
+    border-bottom: 1px solid #ddd;
+    padding-top: 20px;
+    overflow: hidden;
+}
+.avator-group{
+    width: 60px;
+    height:100%;
+    float: left;
+}
+.avator-group .avator{
+    width: 50px;
+    height:30px;
+}
+
+.question-group{
+    width: 650px;
+    float: left;
+}
+.question-title a{
+    color: #259;
+    font-weight: 900;
+
+}
+
+.question-group .question-info{
+    text-align: right;
+}
+.question-info .question-author{
+    padding-right: 10px;
+}
