@@ -1,0 +1,2 @@
+# 简介
+一个Flask的入门级项目，以Flask为web框架，bootstrap为css样式搭建的问答平台，其中使用mysql,Flask_sqlalchemy,flask_scriptd的manager,flask_migrate作为搭建数据交互及迁移的桥梁。实现用户登陆、注销、浏览、发布问答、回答等功能。
